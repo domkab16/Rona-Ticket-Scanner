@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rona Ticket Scanner</string>
+    <string name="tab_text_1">Time In</string>
+    <string name="tab_text_2">Time Out</string>
+</resources>
